@@ -71,7 +71,7 @@ PS C:\> Get-AzureRmResourceGroup
 1. Launch Visual Studio Code
 2. Click File - Choose Preferences - Select User Snippets
 3. Press F1 and type json which creates json.json and appears in working pane with some comments
-4. copy paste the json snippet code from [GitHub](). Credit goes to [Author]()
+4. copy paste the json snippet code from [GitHub](https://github.com/rcarmo/azure-vscode-arm-snippets/blob/master/snippets/snippets.json) - Credits to [Contributor: rcarmo](https://github.com/rcarmo)
 5. Save and Exit the VS Code
 6. Create a AzureDeploy.json file and type arm. Enjoy the snippet! 
 
@@ -106,15 +106,15 @@ AzureRm Module (Only for PowerShell 5.0 and Greater) | [Download](https://www.po
 ### Open Discussion
 Title |Reference Link
 ------|--------------
-I am new to PowerShell. Where can get good resources to learn? | [MVA]() and [Channel9]() are best!
+I am new to PowerShell. Where can get good resources to learn? | [MVA](https://mva.microsoft.com/training-topics/powershell#!lang=1033) and [Channel9](https://channel9.msdn.com/Search?term=PowerShell#ch9Search&lang-en=en&pubDate=year) are best!
 I do PowerShell but how to improve my skill? | Keep on practicing, Keep learning new tricks from [Blogs] or Social Netwoking like [PowerShell.Org](http://www.PowerShell.org)
-Any PowerShell video for SQL IT Professional | [There you go]()
-Which is the best book for PowerShell beginers? | With no doubt [PowerShell in month of lunches]()
+Any PowerShell video for SQL IT Professional | [There you go - MVA](https://mva.microsoft.com/en-US/training-courses/16532)
+Any guide for PowerShell Scripting | There are many! I suggest [Windows Powershell Scripting Guide](http://www.amazon.in/Windows-Powershell-Scripting-Guide-Wilson/dp/8120334590?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=d917610b-b299-4fc9-84b0-b253d59bd3ba) 
 Do we have any certification for PowerShell | No, No and No!
-Where can we get AzureRm Module? |[From PowerShell Gallery]() - Refer the version and install the latest
+Where can we get AzureRm Module? | [From PowerShell Gallery](https://www.powershellgallery.com/packages/AzureRM/3.8.0) - Refer the version and install the latest
 Who should to write PowerShell scripts? | Anybody works in IT and loves to automate things! It's common for both IT Pro's and Developers
 It's bit complex to understand ARM template | Yes, but read [structs and syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates) to get basic idea. 
-How can we write ARM template using VS Code? | It's a JSON file and possible to write using VS Code. However, bit time consuming so configure the [snippet](). Credit goes to [@RyenTang]()
+How can we write ARM template using VS Code? | It's a JSON file and possible to write using VS Code. However, bit time consuming so configure user snippets as shown in ARM Snippet section
 Can we modify the configuration defined in ARM manually by logging to server? | Yes, it's possible.
 How can we pass secure password while deploying? | [Use Key Vault](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-keyvault-parameter)
 Can we use C# rather than PowerShell? | Yes, very well you can opt C#. Refer [Deploy an Azure VM using C#](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/csharp)
