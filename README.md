@@ -71,7 +71,11 @@ PS C:\> help New-AzureRmVM -Detailed
 # List available Resource Groups
 PS C:\> Get-AzureRmResourceGroup
 
-# List available Providers
+# List available Providers Namespace
+PS C:\> (Get-AzureRmResourceProvider).ProviderNamespace
+
+# List Location Information
+(Get-AzureRmResourceProvider).Locations
 ```` 
 ### ARM Snippet
 1. Launch Visual Studio Code
