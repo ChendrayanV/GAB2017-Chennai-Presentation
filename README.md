@@ -1,5 +1,9 @@
 # Global Azure Boot Camp 2017 - Chennai
-This repository is to share the contents "IaC using PowerShell" we presented in Global Azure Boot Camp 2017 on April 22, 2017 in Chennai. This is focused for Level 100 and few materials shared 
+This repository is to share the contents "IaC using PowerShell" we presented in Global Azure Boot Camp 2017 on April 22, 2017 in Chennai. Level 100: Infra as Code | PowerShell | ARM | AzureRm 
+
+<p align="center">
+  <img src="https://global.azurebootcamp.net/wp-content/uploads/2016/09/2017-logo-400x270.png"/>
+</p>
 
 # Azure ARM and PowerShell Demo
 The code shared in this section is show cased in GAB2017 as a demo. Few tips and tricks in PowerShell is also documented here for reference.
