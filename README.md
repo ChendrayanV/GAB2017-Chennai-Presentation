@@ -36,25 +36,25 @@ PS C:\> Write-Information -MessageData "Welcome to GAB 2017, Chennai!" -Informat
 
 ````PowerShell
 # Login with Azure Account. The below cmdlet shows the login window.
-PS C:\> Login-AzureRmAccount
+PS C:\temp\GAB2017-Chennai-Presentation\demo-code> Login-AzureRmAccount
 ````
 
 #### Build a Windows VM using PowerShell AzureRm Module 
 ````PowerShell
 # This script file build the required entity for a Windows VM
-PS C:\> .\BuildWindowsVM.ps1
+PS C:\temp\GAB2017-Chennai-Presentation\demo-code> .\BuildWindowsVM.ps1
 ````
 
 #### Build a Windows VM using ARM template and AzureRm module
 ````PowerShell
 # Using a ARM template we build a VM which includes all the entities
-PS C:\> .\BuildWindowsVM-ARM.ps1
+PS C:\temp\GAB2017-Chennai-Presentation\demo-code> .\BuildWindowsVM-ARM.ps1
 ````
 
 #### Build a Ubuntu VM using ARM template and AzureRm module
 ````PowerShell
 # Using a ARM template we build a VM which includes all the entities
-PS C:\> .\BuildUbuntuVM-ARM.ps1
+C:\temp\GAB2017-Chennai-Presentation\demo-code> .\BuildUbuntuVM-ARM.ps1
 ````
 #### AzureRm PowerShell Tour
 The reason we included this section is to show case the effective use of PowerShell in Azure environment.
