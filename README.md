@@ -128,7 +128,7 @@ Simple Windows Server | [PowerShell Code]() , [ARM Template]() and [Parameter JS
 Understanding ARM Structs and Syntax | [Microsoft Docs]() and [Practical Guid]()
 
 ### Disclaimer
-1. This is a demo code so please validate and test in your environment. We usedd clar text password in the [Parameter JSON]() file which is very bad practise. Please don't do it in any environment (Including Test)
+1. This is a demo code so please validate and test in your environment. We used clear text password in the Parameter JSON file which is very bad practise. Please don't do it in any environment (Including Test)
 2. The PowerShell and JSON codes are built on the fly for a demo. So, may have some mistakes. 
 
 
