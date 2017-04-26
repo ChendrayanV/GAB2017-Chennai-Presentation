@@ -108,6 +108,33 @@ PS C:\> (Get-AzureRmResourceProvider).ProviderNamespace
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp = Get-Content .\sample.json | ConvertFrom-Json
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp.employee
 ````
+#### Read the parameters.json using PowerShell (sample of azuredeploy.json)
+````JSON
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "first": {
+            "type": "int",
+            "defaultValue": 33
+        },
+        "second": {
+            "type": "int",
+            "defaultValue": 43
+        }
+    },
+    "variables": {},
+    "resources": [],
+    "outputs": {}
+}
+````
+### Play with PowerShell (Execute the below code and enjoy)
+````PowerShell
+PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Param = Get-Content .\parameters.json | ConvertFrom-Json
+PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Param.parameters.json
+````
+![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/json-sample.jpg)
+
 #### Sample Output
 ![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/json-sample.jpg)
 ### References
