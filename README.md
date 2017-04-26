@@ -147,7 +147,7 @@ Making an ARM template from SCRATCH | [![ScreenShot](https://sec.ch9.ms/ch9/75d6
 PowerShell and Azure Automation | [![ScreenShot](https://sec.ch9.ms/ch9/08d8/bd759a13-4b36-42bf-8b13-4b5459f308d8/PowerShellandAzureAutomation_220.jpg)](https://sec.ch9.ms/ch9/08d8/bd759a13-4b36-42bf-8b13-4b5459f308d8/PowerShellandAzureAutomation_high.mp4)
 101 of Azure ARM Templates | [![ScreenShot](https://sec.ch9.ms/ch9/2a38/bdbf46b3-7466-4545-9b11-90f527932a38/CLD321_220.jpg)](https://sec.ch9.ms/ch9/2a38/bdbf46b3-7466-4545-9b11-90f527932a38/CLD321_mid.mp4)
 
-### Handy PDF References
+### IT Pro References (Let's Rock!)
 Title | Download Link | Reference Link
 ------|---------------|---------------
 Create a Windows virtual machine with PowerShell | [PDF Article](https://docs.microsoft.com/pdfstore/en-us/Azure.azure-documents/live/virtual-machines/windows.pdf) | [Web Link](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell)
