@@ -135,7 +135,7 @@ Simple Windows Server | [PowerShell Code](https://github.com/ChendrayanV/GAB2017
 ### Disclaimer
 1. This is a demo code so please validate and test in your environment. We used clear text password in the Parameter JSON file which is very bad practise. Please don't do it in any environment (Including Test)
 2. The PowerShell and JSON codes are built on the fly for a demo. So, may have some mistakes. 
-3. Azure DSC Demo will be added soon in DSC-Demo folder. 
+3. Azure DSC Demo code is not included for now. 
 
 ### Contact
 Social Network | Identity
