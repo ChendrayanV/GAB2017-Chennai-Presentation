@@ -141,5 +141,5 @@ Simple Windows Server | [PowerShell Code](https://github.com/ChendrayanV/GAB2017
 Social Network | Identity
 ---------------|---------
 Twitter | [@ChendrayanV](https://twitter.com/ChendrayanV)
-LinkedIn | [Chendrayan Venkatesan](https://in.linkedin.com/chendrayanV)
+LinkedIn | [Chendrayan Venkatesan](https://in.linkedin.com/in/chendrayanv)
 Facebook | [Chendrayan Venkatesan](https://www.facebook.com/chendrayanv)
