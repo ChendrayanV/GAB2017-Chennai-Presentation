@@ -48,6 +48,8 @@ PS C:\temp\GAB2017-Chennai-Presentation\demo-code> Login-AzureRmAccount
 # This script file build the required entity for a Windows VM
 PS C:\temp\GAB2017-Chennai-Presentation\demo-code> .\BuildWindowsVM.ps1
 ````
+### Sample Output
+![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/BuildVMAzureRM.jpg)
 
 #### Build a Windows VM using ARM template and AzureRm module
 ````PowerShell
