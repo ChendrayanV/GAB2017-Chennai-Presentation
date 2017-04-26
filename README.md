@@ -124,8 +124,7 @@ Do we need to be expert in PowerShell to learn PowerShell DSC? | Well, knowing P
 Title | Quick Links
 ------|------------
 Simple Ubuntu Server | [PowerShell Code](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/demo-code/BuildUbuntuVM-ARM.ps1) , [ARM Template](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/demo-code/arm-templates/SingleUbuntuServer/azuredeploy.json) and [Parameter JSON](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/demo-code/arm-templates/SingleUbuntuServer/azuredeployparameter.json)
-Simple Windows Server | [PowerShell Code]() , [ARM Template]() and [Parameter JSON]()
-Understanding ARM Structs and Syntax | [Microsoft Docs]() and [Practical Guid]()
+Simple Windows Server | [PowerShell Code](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/demo-code/BuildWindowsVM-ARM.ps1) , [ARM Template](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/demo-code/arm-templates/SingleWindowsServer/azuredeploy.json) and [Parameter JSON](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/demo-code/arm-templates/SingleWindowsServer/azuredeployparameter.json)
 
 ### Disclaimer
 1. This is a demo code so please validate and test in your environment. We used clear text password in the Parameter JSON file which is very bad practise. Please don't do it in any environment (Including Test)
