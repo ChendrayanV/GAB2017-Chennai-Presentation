@@ -85,6 +85,29 @@ PS C:\> (Get-AzureRmResourceProvider).ProviderNamespace
 5. Save and Exit the VS Code
 6. Create a AzureDeploy.json file and type arm. Enjoy the snippet! 
 
+### JSON - Basics
+````JSON
+// For a demo created a employee information - save the file as sample.json
+{
+    "employee": [
+        {
+            "FirstName": "Chendrayan",
+            "SurName": "Venkatesan",
+            "Age": 33
+        },
+        {
+            "FirstName": "SomeOne",
+            "SurName": "Xyz",
+            "Age": 43
+        }
+    ]
+}
+````
+### Play with PowerShell (Execute the below code and enjoy)
+````PowerShell
+PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp = Get-Content .\sample.json | ConvertFrom-Json
+PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp.employee
+````
 ### References
 Title | Video (Channel 9)
 ------|------------------
