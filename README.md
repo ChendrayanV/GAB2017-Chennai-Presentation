@@ -48,7 +48,7 @@ PS C:\temp\GAB2017-Chennai-Presentation\demo-code> Login-AzureRmAccount
 # This script file build the required entity for a Windows VM
 PS C:\temp\GAB2017-Chennai-Presentation\demo-code> .\BuildWindowsVM.ps1
 ````
-### Sample Output
+##### Sample Output
 ![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/BuildVMAzureRM.jpg)
 
 #### Build a Windows VM using ARM template and AzureRm module
@@ -108,6 +108,8 @@ PS C:\> (Get-AzureRmResourceProvider).ProviderNamespace
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp = Get-Content .\sample.json | ConvertFrom-Json
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp.employee
 ````
+#### Sample Output
+![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/json-sample.jpg)
 ### References
 Title | Video (Channel 9)
 ------|------------------
