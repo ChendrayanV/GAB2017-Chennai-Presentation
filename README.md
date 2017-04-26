@@ -91,7 +91,6 @@ Title | Video (Channel 9)
 How to create an Azure ARM template in Visual Studio 2015 | [![ScreenShot](https://sec.ch9.ms/ch9/3ed6/bc4fbf4c-3d90-4876-94ad-54962f713ed6/HowToCreateAzureARMTemplate_220.jpg)](https://sec.ch9.ms/ch9/3ed6/bc4fbf4c-3d90-4876-94ad-54962f713ed6/HowToCreateAzureARMTemplate_mid.mp4)
 Making an ARM template from SCRATCH | [![ScreenShot](https://sec.ch9.ms/ch9/75d6/3078420d-e175-4f53-9b9b-09536c3975d6/armtemplate1_220.jpg)](https://sec.ch9.ms/ch9/75d6/3078420d-e175-4f53-9b9b-09536c3975d6/armtemplate1_high.mp4)
 PowerShell and Azure Automation | [![ScreenShot](https://sec.ch9.ms/ch9/08d8/bd759a13-4b36-42bf-8b13-4b5459f308d8/PowerShellandAzureAutomation_220.jpg)](https://sec.ch9.ms/ch9/08d8/bd759a13-4b36-42bf-8b13-4b5459f308d8/PowerShellandAzureAutomation_high.mp4)
-ARM template and PowerShell DSC, a Match Made in Heaven | [![ScreenShot](https://f.ch9.ms/thumbnail/d6207511-9969-4251-ab07-cd1e5ae8e39f.png)](https://sec.ch9.ms/ch9/d04f/95e5a017-13b7-4671-91b1-73b4b901d04f/ARMTemplateAndPowerShell_mid.mp4)
 101 of Azure ARM Templates | [![ScreenShot](https://sec.ch9.ms/ch9/2a38/bdbf46b3-7466-4545-9b11-90f527932a38/CLD321_220.jpg)](https://sec.ch9.ms/ch9/2a38/bdbf46b3-7466-4545-9b11-90f527932a38/CLD321_mid.mp4)
 
 ### Handy PDF References
