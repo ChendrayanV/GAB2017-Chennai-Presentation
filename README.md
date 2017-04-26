@@ -108,6 +108,9 @@ PS C:\> (Get-AzureRmResourceProvider).ProviderNamespace
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp = Get-Content .\sample.json | ConvertFrom-Json
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp.employee
 ````
+#### Sample Output
+![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/json-sample.jpg)
+
 #### Read the parameters.json using PowerShell (sample of azuredeploy.json)
 ````JSON
 {
@@ -133,10 +136,9 @@ PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Emp.employee
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Param = Get-Content .\parameters.json | ConvertFrom-Json
 PS C:\temp\GAB2017-Chennai-Presentation\about-json> $Param.parameters.json
 ````
-![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/json-sample.jpg)
-
 #### Sample Output
-![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/json-sample.jpg)
+![Text](https://github.com/ChendrayanV/GAB2017-Chennai-Presentation/blob/master/images/parameters-json.jpg)
+
 ### References
 Title | Video (Channel 9)
 ------|------------------
